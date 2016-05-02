@@ -1,0 +1,52 @@
+DEMONSTRATJON DU Tnssmzmffl DE CAUCHY. 15
+
+et, par suite, l'equation precedente devient
+
+‚s‘F(:)dZ Ξ -Ῐὶᾙῖῂιῖς
+< ιι.α) (anm)
+
+lm
+
+ou
+
+sF(s)c·lz -1- sF(z)tlz Ξ O⁷
+(a m b) Ἴ) mm)
+
+c’est—zi-dire
+
+sF(2)<z2 Ξ 0 ,
+
+(amenum)
+ce qu'il fallait bien prouver.
+
+18. On dit qu'une courbe du contour (simple ou complexe) est
+decrite dans le sens positis, si elle est decrite dans un sens tel, qa'szm
+observamur ait toujours ὰ sa gyauelze Z'az're enveloppe'e. Cette convention
+faite, le the-{omne precedent peut s’dtemlre au cas cl'mze aire ὰ contow‘ com-
+pleme, pourvu que Z'z'nte'yrale
+
+sF(z) d Z
+
+soit prise dans le ῃιέηηε sens, par exempl& dans le sens positis, le long] du
+comour compleat& total.
+
+En effet, supposons que le oontour complexe consiste de deux
+courbes fermees, dont l’une est situee entierement dans l'interieur de
+l'aire env‘eloppee par l'autre et ne rencontrant celle-ci en aucun point.
+Alors, dans la partie du plan ἐι laquelle l'ensemble de ces deux courbes
+est le contour complexe, nous faisons une coupure allant cle l’une des
+deux com-bes ἐι l'autre. L’ensemble des deux bords de la. coupure et
+des deux courbes du contour complexe devient alors un contour simple
+ἐι la meme partie du plan. En vei-tu du theoreme clu n:o 17 l'integrale
+
+definie
+sF(Z)dZ ‚
+
+prise dans le sens positis le long de ce contom-
+simple⁷ est egale ἐι zero. Cette integrale se decom-
+pose en une somme de quatre integrales, en sorte
+
+qu'on obtient
+
+ 
+

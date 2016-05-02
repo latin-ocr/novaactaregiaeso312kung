@@ -1,0 +1,46 @@
+SUB LE DEVELOPPEMENT D'UNE F0N0T10N ANALYTIQUE. 19
+
+Remarque. Pour un contour de convergence qui ne renferme
+aucun des infinie σι1 , . . . , αν l'identite (50) prend la forme,
+
+:Bw
+
+12 N
+
+ 
+
+ωψήωψῇνωψ Jfflw÷m,
+
+d’on l’on conclut que les derivees f'(O) 7 . . . ‚ s'(N-¹'(O)‚f(⁴“⁷÷¹>(0) , , , ‚ ,s'¹²‘V-¹)(O),
+‚ d’une fonction paire f(oe) d’ordre N sont nnlles.
+
+De'termz'nation des ordres des points Sinyulz'ers d’zme classe e'lendue
+d’inversions. Tranfformation.
+
+13. Posons le produit de m facteurs lineaires,
+
+(51) P(oe) = (σε - 61) . . .(;12 — em) 7
+et l’integrale definie,
+
+(52) u = HQ} ⁷
+
+π’1)(Γι)η
+
+pour η ayant une valeur positive ou negative quelconque; alors il sagit
+de determiner l'ordre des points singuliers de l⁷inversi0n generale,
+
+(53) :e = J (u) ,
+ayant la valeur constante azo = J (Ο) et la derivee
+
+(Μ) ἕξεηωεῌᾶεΡωωῨ-
+
+L'inversion J(u) est de plus, pour 900 = eq. (r = 1 ⁷ 2 ‚ . . . ‚ m), une
+fonction paire d'odre n, η etant un entier positis ¹).
+
+1) Voir mon M6moire‚ Aperggu d'zme Nouvelle mambre de repre‘seuter les inver-
+sions cles inte'yrales hyperelliptiques, insere dans les Meimoires de la Soci6t4 des
+
+' Scienoes physiques et naturelles de Bordewx, t. V (2⁶³ Sede), ὅθ cahier, Mernoire
+
+que je designerai par la lettre A dans les citatione.
+

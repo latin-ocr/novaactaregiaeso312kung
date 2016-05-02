@@ -1,0 +1,47 @@
+DEMONSTRATION Du Tffl'zomnffl DE CAUCHY. 3
+
+Cela. pose, prenous
+
+f(<› 7 t> = QFQ),
+d'ou il suit
+fCO -1- h ν t) —f«› 7 t> = ΜΥΘ-
+
+Ici pour chaque valeiii· (lonne'e de t, depuis t= -π jusqu'sst 1⁴= π,
+la fonction FQ) est finie et parfaitenient determinem par suite on peut
+toujours, pour une valeur (lonne'ae cle t, obtenir une quantit& positive A* de
+
+muniere que
+lfe÷hffw<umolssopwrwlssffi-
+
+Mais il est evident que ὃ tendra vers la limite zero⁷ quand t se
+rapproche indefiniment de zero 1) et que⁷ par suite⁷ il n'existe aucune
+quantit& positive ὃ telle que⁷ pour tontes tes ualeurs (le t en question,
+
+lfw÷st2nssfwmssssffpmwlmiff·
+
+Dans ce cas on dit que f(p‚t) est fonction continue de la seule
+vari-able ρ pour chaque'valeur donnee de t entre t: — π et t: π, mais
+elle n'estpas fonction continue cles deum variables independantes ρ et t
+dans une partie du plan des coordonnees (ρ , t) dans laquelle sont situes
+des points pour lesquelles on a t= O7 puisque la fonction Fu) est dis-
+continue pour t = Ο .
+
+5. Si, au contraire, f(9‚t) est fonction continue (les deum variabies
+(ρ , t> <lans ollaque point cl'une certain& partie clu plan cles coordonne'es (ρ , t),
+il miste ne'cessairement‚ pour chaque valeur positive cle σ, une quantite' posi-
+tive ὃ (qui, en general, depend cle σ) telle que, pour tous les points situe's
+ὰ l’inte'rieur (Ze la partie mentionne'e clu plan
+
+1f«1 -1- ll 2 t> —fQ’ 7 t) Ι Ξ 0 220202‘ 17² Ι Ξ ὃ,
+
+ce qui, par suite⁷ sera urai pour une vaieur donne'e de ρ et pour toute& les
+vaieurs cle t comprises entre deum limites, telles que tous les points determines
+par ces vatem-s de ρ et cle t soient situe's dans i’inte'rieui’ de la dite partie
+du plan.
+
+En estet, f(9,t) etant, en chaque point de la partie du plan,
+fonction continue des deum variables ρ et t⁷ on peut, apres avoir donne
+
+1) En efflat, la valeur absolue de Fa) croit au dela de toute limite, quand t
+se rapproche indefiniment de ze'ro.
+

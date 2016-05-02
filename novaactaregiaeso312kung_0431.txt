@@ -1,0 +1,45 @@
+SUR LE DEVELOPPEMENT D'UNE FONOTION ANAnYTiQun. 17
+
+ou f,.(⁴v) est une fonotion rationnello de ee, qui est infinie au seul point
+(1,, et s’annule pour ,ΥΞ-(1)- ‚ et ou E.(;1:> est la somme cl'un polynssrnea
+procedant suivant les puissances entieres et positives de (av—a), et de
+la fonction f,.(.*v), et ou enfin FQr) est la differenoe d'une fonction ana-
+
+lytique uniforme fsto), ayant les infinis a¹ , . . . , αν, et d'un polynssnie
+
+semblable Ξι celui de Fr(„v); alors7 pour lim α11 = ὲ ., c'est-{t-dire pour la
+
+(1’=00
+condition (38) 2⁰ ou η doit avoir sa plus petite valeur λ, on aura d’apres
+
+(34) fidemne,
+Ηυεῗῆω,
+r=1
+οὺ Εζω) est une fonction analytique uniforme qui, au dehors du point
+
+:e = U ⁷ devient infinie seulement aux points al , . . . ‚ av, et de plus
+
+possede la propriete que la differenee
+
+Hm—fiw
+
+est finie pour ατ = a„ et s’exprime‚ au voisinage du point ar, par une
+serie procedant suivant les puissances entieres et positives de (oe— αν).
+Ou, brievement, le theoreme en question s'exprime comme cas particulier
+de l'identite (34) ou de l⁷identite plus generale (27) pour un contour de
+convergence infiniment grand.
+
+Cas 022 la fonction χίας] est pavire d'ordre N.
+
+12. Les N raeines N³‘³‘¹¹¹es cle l etant designees par
+
+29711·
+
+(46) ερεθ-ῙΓ <ρ;1,2,...,Ν>,
+
+une fonction ιγθζασ) paire &ordre N se de‘finit par Pidentite,
+
+ee πωώεμω oe=1ss„ ‚Ni
+
+Nova Acta Reg. Soc. Sc. Ups. Ser. ΙΙΙ. 3
+

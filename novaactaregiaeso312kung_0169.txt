@@ -1,0 +1,50 @@
+DREHUNG ElNsss ROTATmNsKORPERs. 67
+Co ‚ cl ., 02 , . . . bez. 14¹0 ⁷ lx·¹ 7 lc? 7 . . . bestimmen.
+
+Der analytisohe Ausdruek des Winkels v wird aber einfacher und
+die Coefficienteu desselben leichter zu bestimmen, wenn man statt der
+vorgesehlagenen Ausdriieke fiir den Winkel v die analytische Funetion
+
+(57) v Ξ ΚΟ -ς- lsl<t--10)÷ Κ2 (t - t0)² 1- K3(t - †0)³ ÷ . ..
+einffihrt.
+Weil fiir t: to der Winkel vo
+
+ΤΟ Ξ Iso
+
+ist, so hengt die Gresse ΚΟ von der Wahl der ξ· und ›j—Aehsen ab.
+
+Wie in dem Falla Po = ‘lo ε Ο ‚ mege zur &Achse die Gerade in
+der §zj-Ebene gewiihlt werden, um welche am Anfange der Bewegung
+eine Drehung in positiver Richtung existirt — da: zuerst entsteht
+— und zur ›y-Aehse diejenige Gerade, die mit der ζ· und der 5-Aehse
+ein gewehnliohes System bildet. Dadurch bekommt man q0=0 und
+p0>0.
+
+Wie an der Seite 6 hat man
+
+[773 ·
+<lt ’
+
+ 
+
+(13) 2272 — ΨΑ = —
+
+also am Anfange der Bewegung
+
+ 
+
+‹ly-³ ) .
+
+Hieraus wird sofort ersichtlich, dass man
+
+α
+eu ½²½-Jff‡ff‡fftz³
+oder
+β
+(52) 73 ’“ ⁷'3 ἦ*
+
+ 
+
+zu gebrauohen hat, je naohdem am Anfange der Bevvegung der Winkel ⁴
+zwischen der vy-Achse und der 2-Achse spitz oder stumpf ist.
+

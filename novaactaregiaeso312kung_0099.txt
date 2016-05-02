@@ -1,0 +1,51 @@
+DEMONSTRA'HON DU Tflssonmffl DE CAUCHY. 17
+
+ζ’ἰηειζᾳηιίε sF(:)d: relative acc ‹wmtozcr entier απ e'syale ὰ adro, [warvic quc, ὰ
+l'eaeception (lec point 3 .- ιι, la fmwtiam soit sgzsnecz‘zfqtce «lam- stivztu'rc'fflcr «la Ια
+startia dec plan.
+
+En effer, soit. C le contour simple et deerivons du point α comme
+centre un cerole c· avec im rayon infmimeut petit φ’. En premant, leg
+integrales relatives ᾗ, ces deux courbes dans le sens positis par rapport
+aux aii-es qu’elles enveloppent‚ On a, en vertu du theoreme du nzo 19,
+
+sffstffl2=jffffld2-
+”au (ν)
+
+Posant dans l’integrale du second membre
+(l) z — a = reffl' 7
+on obtient
+(2) sF(2)‹lz :sffssa-ff- refflfl‘refficle .
+(v) 0
+De la condition
+
+nme-mfffflzo
+
+on tire
+Ι<Ζ-α)ΙῙ’(Ζ)ΙΞσ pour 'Z-a{{<57
+
+σ etant. une quantit& positive donnee toute petite qu⁷0n voudra. Par la
+substitution (1) cette derniere inegalite devient
+
+r Ι F(a -1- reffl) Ι Ξ a pour ν Ξ ὃ ;
+
+par suite on obtient de l'equation (2) et en vertu des ntos 1 et 2
+
+Ι sF<2)<z2
+
+(C)
+
+Ξῒὲπσ pour ’νὲδ .
+
+ 
+
+Mais l'integrale du premier membre de l'equation (2) etant indfi·
+pendante de ν, eet-te inegalite exige
+
+sF(2)d2 Ξ 0 ‚
+
+( (5¹)
+
+ce qu’il fallait bien prouvex:
+Nova Acta Reg. Soc. Se. Ups. Ser. 111. 3
+

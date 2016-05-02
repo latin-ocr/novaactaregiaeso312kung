@@ -1,0 +1,47 @@
+Suu Lus FONCTIONS ELLIPTIQUES ἔζη). 91
+
+Clzerclzer la formul& (Ie re'duction (le l’intcfffl‘ale
+
+,r-
+
+(ὃ) «J = βἥσω)ξλμ<υ>ξλν<υ>αα ,
+
+l e'tant zm nombre entier possiz‘zf.
+La formule de reduction de cette integrale pourrait se derivet· de
+
+la formule de reducum] de l’integrale stssffizcsswffl)§⁰2,(u)du, en y posent
+
+— (3-2) pour l. La meme formule ι(16 reduction s’obtient aussi direc-
+tement par la derivation de la fonction 553¹(u). On aura
+
+ 
+
+(4) [ξᾷοᾲᾢξλμᾴᾠξλ,,(ῑι)ᾱῖι = — {lp-⁰¹0? — Seasssfffflsszfflffl) &gvfflfflu —
+
+— (e). — εμ) (e). — ev) §33⁴¹(u) ξλμᾳι) }2,‚(u)du .
+Cette formula de re'ductiOn est applieable, si 66 n'est que l- 1 = Ο .
+
+Si l= l⁷ on n'a qu'ssi employer l’equa‘tion (2). — En employant plusieurs
+
+fois la formule de reduction (4), on arrive aux integrales «11 εχξομζαῇωζῖῴᾱα ,
+
+«12 εχξομᾴιῇλνζωᾱα , «13 ε]ξλμ(α>ξλν<α)ἅῑι ⁷ «14 z [ἕλη(α)ξλμ<α)ξλν(·α)ᾱα .
+
+Pour la valeur de l’integrale «11 Voir ξ 5; pour «12 voir ξ 7; pour «13
+voir ξ 11; pour «14 voir l’equation (2).
+Clceroher la formul& (le re'ducz‘ion cle l'inte'qrale
+
+(5) J = s÷20<2c>5512<u>52.2,<u><220 ,
+
+m e'tant un nombre entier positzf.
+
+Il n’est pas possible de traiter cette integrale de la m'eme maniere
+que celle du dernier exemple. Car, en substituant —Uc-ff-2) pour m,
+on obtient
+
+²s‹³-=2.0<u>53121<u>÷2ffl<u>du = s5i0<u>5522<u>5ffl<u>01u ,
+
+integrale de la meme espeoe que la primitive. — D⁷ailleurs, quoique
+
+l'integrale sffllfflssiffifflssssffiufilu, (9) p. 75, pour ΖΞ -1 , m = -- m et
+

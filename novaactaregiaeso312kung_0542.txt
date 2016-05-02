@@ -1,0 +1,46 @@
+86 Axffl, SoDERssL0M‚
+
+Chercher la formul& cle re'cluctz'on de l’z'nte'yrale
+(8) J ε[ἕῇοῢὼξῇ(α)ξψ(ῑι)ᾱα ,
+
+l et m e'tant des nombres entiers positifs.
+
+Pt‘emibre transformation: On a, par la relation (Ιι) p. 5,
+(Qs‘s‘ss'ostcffiffihffl){cmmoda z s‘s‘fiostcffjssffstc)&Quodn—(ez—eflffl‘fiffffl)EZLfflsswqu .
+
+Dans cette formule de reducum, l'integrale proposee est rem-
+plaeee par deux integrales, dans les differentielles <lesquelles un des expo-
+sants est reduit de deux unites. En l'employant plusieurs fois, on arrive
+ὲι des integrales dont les valeurs sont deje oaloulees.
+
+Deuxibme transfom'natz'on: On a
+
+z
+
+ᾖ ίξῆο(α)ξῆμ(α)ἷ = — p ξῖῑ1(ιι)ξῖα(ιι)ξμο(ῑι) ξνο(α)»- ᾳ(ελ-6μ)ξῖο(ῑι)ἓῆᾗ1(α)ξ,,μ(ἰι)ξομ(ἰι)
+
+2 — ])ξῇζο“1(α)’ξῖμ(ῑι)ξ,,μ(α)ξίο(α) -. q(e,z -- εμ)ξῇζ’(α)ξῖμ(υ)ξνμ(α)
+= -— ρξῖζι(ῖι)ξῇ’μ(α)ξνμ(ῑι) ,- (p -f- q) (θλ -- εμ)ξῆο“1(α)ξῖμ(α)ξνμ(α) ‚
+
+par les relations (6) p. 3. — En faisant, dans cette equation, p = l- 1,
+q = m, on aura, en l’inte'grant
+
+ξῇζὊί) ξῇΰίό) ἰ-ι-Ίη-
+Z— 1 ἰ- 1
+
+ 
+
+(10)],ξῆοριωξῇςῑοἕψω)(ἴα = 1(θλ-εμῖίξῇῗαιὲᾖ(α)ξνμ(α)οἷα.
+
+La formule de reduction (10) est ἐι preferer ἐι la formule (9), parce
+qu'elle ne contient qu'une integrale, dans la differentielle de laquelle
+un des exposants est reduit d'autant d’unites que les exposants dans
+l’equation (9). En l⁷employant plusieurs fois, on arrive ὲ l'integrale
+
+J1 =s55u(zc)}w(u)du, si l est pair, ἐι l'integrale J2 =s52⁰(u)}fi”sp(u)}m(u)du ,
+
+si Z est impair. Pour la valeur de l'integrale J1 voir le paragraphe 12;
+pour celle de l’integrale J2 voir l’equation (13).⁴⁸— En eliminant, entre
+
+(9) et (10), l’integrale s}fi]²(u)}⁷j”u(u)}w(u)du , on obtiendra encore une for-
+

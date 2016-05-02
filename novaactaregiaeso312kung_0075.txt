@@ -1,0 +1,49 @@
+sz L'lN'l‘EGRATION DEs EQUA'HONS DlFFI'ssRENTlELLES DU PENDULE coNIQUE. 7
+
+οὺ Κ desig-ne une constante. Dans cette equation les quantites conl-
+plexes 1⁷1 , . . . , Ῡμ satisfont aux μ equations differentielles respectives
+(24) tandis que les μ valeurs 31 , . . . 7 ,πμ , oontennes dans le second men]-
+bre, doivent satisfaire aux relations que l'on tire des μ equations (28)
+en eliminant les parametres vari-ables 570, . . . ,μμ conterius dans la fonc-
+tion ᾳ.
+
+La constante d'integration K se determinem en assignant aux
+21 , . . . , εμ les valenis particulieres constantes ζι 7 . . . ‚ ζμ dans la for-
+male (29).
+
+Somme des diverses valeurs de θ , exprime'e en fonction loqarz'tlcmique
+de z correspondanles.
+
+5. Une valeur or de l’angle θ s'exprimera, d’apres (3) et (10),
+par la formule suivante,
+
+Γν ζα] 2„
+
+(³²²) ⁶* ἢ a. &tw ³
+
+d’oh l'on tirera d'aprez (29) et (30),
+
+ 
+
+ 
+
+ 
+
+οὺ, d'apres (27), on a les expressions suivantes de φ(1) et deffi(— 1),
+
+1200>=[-G<1—2,>---<1-2u>—c2]÷‚
+1⁹2<-1>=[—G<—1>‘⁴<1÷21>---<1÷2f2>-22]÷‚
+⁴ expressions qui doivent neeessairernent &tre refelles pour que la somme
+
+θ1 4- . . . -†- θμ soit reelle. Mais une condition necessaire de cette realite
+est, pour m un entier positis,
+
+(34)
+
+1G<O‚
+
+(35) Ι μ = :2722 ,
+c'est-a-dire que μ doit etre 4 ou un nombre pair plus grand. Etudions
+le cas le plus simple μ = 4 et par suite ν = 2. Alors, I’equation (27)
+prend la forme,
+

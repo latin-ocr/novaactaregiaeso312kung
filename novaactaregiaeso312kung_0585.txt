@@ -1,0 +1,74 @@
+DREHUNG Emsss STARREN KessPERs. 3
+
+Die Drehungsgesohwindigkeiten um die ξ-, ’'l‘’ ‘g-Achsen neuneu
+
+ 
+
+wir P ⁷ ‘l’ Τ· Durch Zerlegung der Drehungsgeschwindigkeiten ΞΥ
+um 0: (ο ist der Mittelpunkt der Kugen, ἀφ um οξ und ἅθ’ um
+
+ 
+
+ 
+
+dt dt
+OD in ihre Komponenten Ia'assngs der ξ-, w, ‘g-Achsen bekommt man die
+Gleichungen:
+
+εἶθ
+
+ 
+
+5
+
+ 
+
+ 
+
+JP=Siss<PSiss¹9—⁶{}÷008<p dt
+(2) ᾳῑοοεφείῃθ-ᾶζῇϋ--εἱηφ-ᾱέ,
+[rr-eos& (2²⁷5 -ξ- Z? .
+
+Die Bewegungsgleichungen sind bekanntlioh die Euler-sohen
+Gleiehungen ¹):
+
+ 
+
+ 
+
+ 
+
+ 
+
+K¹ ἕξ = (ΚΞ - Kssyqr ,
+
+(3) ΚΞ {tq Ξ (Κ3 -Κ1)Ί’]) ⁷
+j,
+
+Kss Z} Ξ (Κι ““·· ΚΞ)Ρῖ a
+
+ 
+
+wo K„ ΚΞ, Ka die Tragheitsmomente des Kbrpers in Bezug auf die ξ-,
+η-, ζ-Αοὴεθῡ (d. h. die Haupttr5g11eitsmomente fiir den festen Punkt)
+bezeichnen.
+
+Um diese Differentialgleichungen zu integrieren‚ vergleiehen wir
+sie mit den Differentialgleichungen fiir WEIERSTRAss’s g-Funktionen ²):
+
+(Ιξολ ,Δ ζ (lgm, ἓ ξ (lgm Ξ ξ
+du = — (ἂμ — ΕΓ) 52„ ον 7 du Ξ — '4¹¹⁰ vo 7
+
+ 
+
+ 
+
+ 
+
+(2‚„a‚21=1,2‚3).
+
+1) Siehe z. B. KIRCHHOFF: S. 64.
+
+2) ScnwAnmz: Formeln und Lehrsfitze zum Gebrauche der elliptischen Func-
+tionen, Gettingen 1882. S. 28.
+

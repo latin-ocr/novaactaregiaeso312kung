@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./novaactaregiaeso312kung_0659.png"; bbox 0 0 2051 3001; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 727 510 1094 567">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 727 510 1094 567">
+     <span class='ocr_line' id='line_1_1' title="bbox 727 510 1094 567; baseline 0.011 -5"><span class='ocrx_word' id='word_1_1' title='bbox 727 510 1094 567; x_wconf 59' lang='lat' dir='ltr'>MESURES</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 155 933 1665 1037">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 155 933 1665 1037">
+     <span class='ocr_line' id='line_1_2' title="bbox 155 933 1665 1037; baseline 0.004 -31"><span class='ocrx_word' id='word_1_2' title='bbox 155 933 627 1037; x_wconf 81' lang='lat' dir='ltr'><strong>HAUTEURS</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 690 935 788 1006; x_wconf 87' lang='lat' dir='ltr'>ET</span> <span class='ocrx_word' id='word_1_4' title='bbox 856 934 1013 1008; x_wconf 76' lang='lat' dir='ltr'>DES</span> <span class='ocrx_word' id='word_1_5' title='bbox 1075 934 1665 1026; x_wconf 77' lang='lat' dir='ltr'>MOUVEMENTS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 670 1162 1149 1466">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 670 1162 1149 1466">
+     <span class='ocr_line' id='line_1_3' title="bbox 670 1162 1149 1218; baseline 0.004 -2"><span class='ocrx_word' id='word_1_6' title='bbox 670 1163 802 1217; x_wconf 69' lang='lat' dir='ltr'>DES</span> <span class='ocrx_word' id='word_1_7' title='bbox 850 1162 1149 1218; x_wconf 66' lang='lat' dir='ltr'><strong>NUAGES</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 866 1438 951 1466; baseline 0.012 -1"><span class='ocrx_word' id='word_1_8' title='bbox 866 1438 951 1466; x_wconf 71' lang='lat' dir='ltr'>PAR</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 438 1677 1391 1723">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 438 1677 1391 1723">
+     <span class='ocr_line' id='line_1_5' title="bbox 438 1677 1391 1723; baseline 0.003 -3"><span class='ocrx_word' id='word_1_9' title='bbox 438 1683 493 1720; x_wconf 91' lang='lat' dir='ltr'>N.</span> <span class='ocrx_word' id='word_1_10' title='bbox 522 1683 780 1721; x_wconf 84' lang='lat' dir='ltr'>EKHOLM</span> <span class='ocrx_word' id='word_1_11' title='bbox 808 1695 850 1721; x_wconf 69' lang='grc' dir='ltr'>ΕΤ</span> <span class='ocrx_word' id='word_1_12' title='bbox 884 1683 937 1722; x_wconf 88' lang='grc' dir='ltr'>Κ.</span> <span class='ocrx_word' id='word_1_13' title='bbox 966 1684 1013 1722; x_wconf 92' lang='lat' dir='ltr'>L.</span> <span class='ocrx_word' id='word_1_14' title='bbox 1042 1677 1391 1723; x_wconf 72' lang='lat' dir='ltr'>HAGSTROM</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 872 2541 960 2567">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 872 2541 960 2567">
+     <span class='ocr_line' id='line_1_6' title="bbox 872 2541 960 2567; baseline 0 0"><span class='ocrx_word' id='word_1_15' title='bbox 872 2541 960 2567; x_wconf 59' lang='lat'>1835.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

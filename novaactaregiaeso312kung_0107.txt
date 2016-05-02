@@ -1,0 +1,47 @@
+DREHUNG EINES ROTA'FIONSKOERPERS. 5
+
+ist, so belzommt man
+Δι {²1 = (A—CM‘· ΔΓ Mn
+
+*⁷ ι t
+A “2sz = -- (Α- cm„- - Jsyl (10)
+dr
+
+ἯΞΟ.
+
+Die letzte Gleiohung giebt
+
+7⁷ Ξ const.
+J· = ⁷²0 (ll)
+
+d. h. die Drehnugssehnelligkeitscomponente um die Figurenachse des
+Kbrpers ist unvera‘nderlich.
+
+Obgleich ich nicht die Absioht habe, wie K1RCHHOFF, die zwei
+ersten Gleiohungen des Systemes (10) durch Transformation zu den Win-
+keln θ und ῳ zu integrieren, so kann ich jedoeh vorlsstufig dem von ihm
+eingeschlagenen Wege folgen.
+
+Duroh Multiplication mit 2) bez. q und Addition bekommt man
+
+A (p {lg-³? ᾳξξξῖ) = M(py2-2qy1)
+
+also
+A(p2 -1- (Γ) z 2ss:ls(py2 — «1220th † Const. (12)
+
+Fflr die Transformation dieser Gleichung kann man auch oin an—
+deres Formelsystem von KIRCHHOFF mit Vortheil gebrauchen:
+
+Ffir die kleinen Verriickungen der Punkte des K6rpers (nach den
+ξ-, η- und g-Achsen und) um dieselben wendet KIRCHHOFF die Bazeich-
+nungen (α’, v', ω’ und)
+
+ΡΙ ’ (Is υ '¹‘
+an.
+Von den von ihm hergeleiteten Relationem brauoht man fiir die
+beabsioht.igte Transformation der Gleichung (12) nur
+
+‘573 Ξ 7191- y2p' 1) ·
+
+l) (KIRCHHOFF S. 50). .
+

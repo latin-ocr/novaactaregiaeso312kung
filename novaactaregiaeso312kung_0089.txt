@@ -1,0 +1,47 @@
+DEMONSTRATION DU Tffl'sossismss DE CAUCHY. 7
+
+8. En posant
+
+1U÷yi=37
+
+s'(‹1‘³.‘]) peut &tre consideree comme une fonction de 13 seule variable Ζ,
+ἒι ce point de vue que, 3 chaque valeur de Ζ, il correspond un seul
+systeme de valeurs de zv et de y, et si ce systeme appartient 3 un
+point dans 13. partie du plan οἰ1 13 fonction f(oe,gs) est domffie, cette
+fonction devient alors determinee par la valeur de Ζ. Ces considera—
+tions justifient la notat-ion F<2> au lieu de sz‘ ,y). Par suite, au lieu de
+l⁷equati0n du n:0 7, nous pouvons eerire
+
+ΗΞ) = w<212221s)÷i1fs(-v‚y> ·
+
+Cependant on ne fait ordinairement usage dela notation F(z)
+que dans le cas οἲ1 13 fonction est monogene (Voir n:O 10).
+
+9. Attribuant ἐι Ζ un accroissement quelconque ΔΖ, :13 et y
+eprouveront des accroissements oorrespondants Ax et Ay, lie's ἐι ΔΖ
+par 13 relation
+
+AZ= Aoe÷iAy.
+
+Le changement de Ζ eu Ζ -f- ΔΖ equivalant 3 remplaeer ἐι 13 fois
+x par [ι’-1- Am et y par 94- Ay, on obtient
+
+F<2÷ A2> = w(oe÷ mmuh Ay) ÷iw(=v÷ Μαί-Ρ ΔΖ),
+pourvu que 13 10110ῑίοῇ soit donnee au point (av-{- Aoe‚y -f- Ay) .
+
+10. Lorsque le rapport
+
+F(Z 4- ΔΔΖ) — F(z)
+
+tend vers zme meme limite, quaml ΔΖ Se rapproclze indefinimem <le Ζάνο,
+d’une mambre quelconqae, cette limite §appelle [a de'rive'e de ΕΚΖ) (par
+dF(2)
+dz ’
+
+En chaque point οὺ» Ρ(Ζ) admet une cle'rive'e, la fonction s’appelle
+mono yene-
+
+rapport ὲ Ζ); on 13 represente ordinairement par F(2> ou par
+
+ 
+

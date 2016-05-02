@@ -1,0 +1,42 @@
+DEMONSTRATION Du 'Punoizfmxffl DE CAUCHY. 11
+
+13. Ces conventione faites, nous demontrerons d'abord le theo-
+
+reme dans le eas ou F'(:), φ’(ΐ) ef ψ’(ῖ) sont continues. Dans oe oas
+aucune des oourbes considerees ne sera brisee.
+
+Designant par J l'integrale (5), on a en vertu du n:o (3
+
+ἐξ Ξ] ὁΜΨ ÷ ε’ψ) ψ’ - dt ᾗ] 1(sp -μ <²1ss¹>m«fl÷ e> ψ’) dt ,
+
+puisque, par les suppositione faites, la fonotion qui multiplie dt sous le
+
+signe s et sa derivee par rapport ἓι, ρ sont fonctions uniformes et oon-
+tinues des deux vari-ables inc'lependantes ρ et t.
+
+De l'identit& &vidente
+ἐξ F& ΔΓ ρψ) · w} = ΜΨ ÷ ρψ>ψ - (φ’ ÷ w> ψ ΠΨ Arent») - ψ’
+
+on obtient par l'integration
+
+s⁵F(<p÷9w)2p.(‹p'÷91ff)dt Ξ[Ε’(φψρψψ-[Εςφῆ-ρψῃάε.
+
+Par suite l’expression de g—QJ devient
+
+’ἐξ = [pm ψ omo] ψ (τ)
+
+σ’θεῖ-ἒι-ᾶίτθ, en vertu de (4),
+
+Eas Ξ 0 .
+ὃς)
+
+Puisque la derivee de J par rapport ἐι ρ est finie pour tontes les
+valeurs de ρ depuis p=O jusqu& p: 1, J est elle meme fonction
+continue de 93 et puisque cette derivee est egale ἐι Ζόῐο, J a aussi la
+
+meme valeur pour tontes ces valeurs de ρ. 1) Les valeurs ρ = Ο et ρ = 1
+nous donnent par suite
+
+1) Voir: Einleitung in die Theorie der bestimmten Integrale, von D:r J.
+Tnonm, ς. 10.
+

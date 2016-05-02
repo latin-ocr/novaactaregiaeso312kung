@@ -1,0 +1,44 @@
+SUR LES FONOTmNS ELLIPTIQUES ξω).
+
+Introduction.
+
+Les nouvelles fonctions elliptiques ξ(ιι> ont ete' introduites dans
+l’analyse par M. XVEIERSTRASS. Nous en donner-ons quelques for-mules
+de transformation, >our prouver eombien ees nouvelles formes de fone—
+tions sont applieables au nalem, et pour en faire ressortir la. merveilleuse
+flexibilite. Dans ee memoir nous nous bornerons ἐι donner des formules
+de transformation des differentielles algebriques des fonctions ἔζη).
+
+La nouvelle fonction elliptique prinoipale s :p(u) qu'a in'nroduite
+M. WEIERSTRASS satisfast ἐι l'equation differentielle
+
+1 (Zs 2 3
+(1)) (ᾗ) =4s —92s-ff3
+
+Ξ 4(s — e1)(s ᾖ 4³2) (S -- 63) ³
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+d'ou
+ds
+(2) ²⁶:— xs4s³ssg2ssstq³
+ds
+z—sxs4(s-el)<s-e2)(s-eg) ’
+et
+(3) δερᾶωθρ;.<]3);2]<ἰι;61 mm>-
+
+1) Voir: Formeln und Lehrsiitze zum Gebrauche der Elliptischen Funotionen.
+Naeh Vorlesungen und Aufzeiehnungen des Herrn Professor K. WEIERSTRASS bear-
+beitet und herausgegeben von H. A. SCHWARZ. Gottingen 1881—83. (14) p. 12.
+Nova Acta Reg. Soc. Sc. Ups. Ser. III. 1
+

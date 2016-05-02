@@ -1,0 +1,56 @@
+sz LE DEVELOPPEMENT D'UNE FONC'rlox ANALYTIQUE. 5
+
+Re'duction d’un point critique pur d'ordre silei (ὶ point re‘yulier.
+De'veloppement d'une fonction analytefqzoe (lans le voz'sz'tmqe (l'un
+point critique pur d'ordreflm‘.
+
+3. Posons dans 13 formule (5), pour ,ιι fini,
+
+(8) m = — μ, 7
+et ensuite
+(9) 5)(2) = <z - a)¹¹2s·(2) Ξ easma- ;
+
+alors, en suppos-ant 16 point critique a de la fonction f(:) pur, e’est-{t-
+dire 13 fonction E(:) uniforme pour le point α, 13 fonction ρῳ) est finie
+et uniforme pour ε = a. Dono 16 point a est 1111 point regulier de 13
+fonction ρζε).
+
+Pour 6613 nous disens que le point critique pur a, (sordre fini μ,
+de la fonction f(z) est re'duit au point re'gsulier α (Ze Za fonction μᾷ).
+
+Pour nn cerole de eonvergenee (111 centre α, qui ne referme pas
+d'autre point critique de 13 fonction f(z) que 16 point a, 13 fonction
+
+9(z) est synectique 61,,(16ν61011Ρ6’6 d’apres 13 serie de Taylor, prend 13
+forme,
+
+(10) ,(16) = μοι) ÷ <2 —- 691011. - ·÷<2 - ‘²³⁷' fra> ÷ - -- ³
+
+522
+
+ 
+
+donc on obtiendra suivant (9), m etant un nombre entier positis ou un
+nombre fractionnaire positif ou negatis,
+
+(11) f<2>= ³⁷0²> ÷ W> ÷--.÷ ΨΜ) ÷----
+
+(ε - ar (ε - ayn-¹ 116 - w>
+
+ 
+
+ 
+
+ 
+
+O’est pour m entier et positis que Cauehy 3 fonde Sur cette for-
+1111116 16 6316111 (16 residue.
+
+Inte'qrale de lacet.
+4. Designons par
+
+(12) , Γίωάε
+
+l’integrale prise suivant 16 lacet Α, allant du point ΖΟ, sitne au dedans
+du cerole de eonvergenee de 13 serie (10), au cerole (ξ) entourant 16 point
+

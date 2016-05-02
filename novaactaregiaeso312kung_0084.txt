@@ -1,0 +1,46 @@
+2 M. sz,
+
+En effet, soit
+f<t> = (W) -Ι- imo),
+
+ou (pst) et 4105) sont fonctions reelles. Par la definition meme de l'inte-
+grele nous avons
+
+ssssffldt Ξ Γᾳωατ ÷ ῑΓψωᾱῑ.
+
+Maintenant (pst) et ψζί) etant par supposition uniformes et oon-
+tiuues, on seut, par la theorie des integrales des fonctions reelles7 que
+les integrales qui figurent dans Ie second membre de cette formule sont
+finies et parfaitement determinees. Dono il faut que l'integrale du pre-
+mier membre le soit aussi, oe qu'il fallait bien prouver.
+
+4. Si, με), t) etant une fonction de ρ et de t, on se donne une
+quantite positive σ, aussi petite qu'on voudra, et que pour chaque va-
+leur de t depuis t = oc jusqu'sst t z β, une autre quantit& positive δι puisse
+sbbtenir, telle que
+
+a) lf<9÷723t>—f(o‚t>130 1³011r ΙΙῑΙξδι ,
+
+il ne s'ensuit pourtant pas qu'il existe une quantite positive ὃ inde'pen—
+dante de t, telle que pom* tontes les valew's (Ze t en question
+
+ῥ’) Ι]“(ε>-ὶ-Ιῑ,ῐ)-]’<ρ,τ)1ἑσ ΡΟΠΥ ΙῖιΙΞδ·
+
+Ainsi, par exemplo⁷ designons par Fe> le developpement en serie
+trigonometrique de l'expression
+
+(71² — τὶ) ΐ-Ὗῡ .
+
+Oette serie sera oonvergente pour chaque valeur de t depuis
+t: -π jusqu'ssi t: π. Alors on a pour Ο<ιέ2Ξπ2
+
+F<t> = (77² - t2>t-'¹³.
+
+Pour t= O cette equation n'a pas lieu, mais la sbrie to’iyowzowzdtriqvee
+donne
+
+F(0)=0. 1>
+
+1) Voir: Abriss einer Theorie der complexen Functionen und der Thetafunc-
+tionen einer voranda—lichen, von Dzr J, THOMAE, Zweite vermehrte Aufiage, pp. 15 et 16.
+

@@ -1,0 +1,46 @@
+DREHUNG Enffls Ro'rA'rlorx‘SKORPr:Rs. 59
+
+Vp²÷q² bestimmende ‚zm-Funestam regehniissig und zu gekannten Zeiten
+versehwindet und Zeiehen wechselt. Dieses fiir die Herleitung der For-
+mel (50) so wiehtige, regehniissige Zeiehenwechseln findet nur in dem
+Falle statt, wenn die Bewegung der Projeetion der instantanen Aehse
+eine uniforme Drehnng um die Figurenachse des Kerpers ist.
+
+Dieses setzt, wie es sehon erwiesen ist, vorans, dass in dem Aus-
+drueke des Winkels z7
+
+v = Κυ -4- K, <t - τι.) -†- A} (t - t0)2 -f- Κ3 (t - t0)³ -μ . . .
+
+die Coeffieienten
+K2=O 7 Ix'3=0‚..
+
+waren. Dies war wieder nur dadureh meglich, dass in dem Ausdrueke
+
+der Ableitung -ῧ-Ξ, der Faetor
+C? ““ 73
+C1 ““ 7'3
+
+ 
+
+durch l ersetzt werden konnte, also dadureh, dass die Integrationseon-
+stanton Cl und C2 denselben Werth hatten. — Ausser dem speeiellen
+Faue, in dem⁷ zu der Zeit t- fo = Ο, die Bewegung eine Drehung um die
+Gerade durch den festen Punkt und den Sehwerpunkt des Kbrpers
+war -— oder dass sich die Bewegung in einem folgenden Augenblieke zu
+einer soleher Drehung reducirt, weleher Augenbliek danaeh zur An-
+fangszeit gewahlt werden mag —- kann es noch unter einer anderen
+die Anfangsbewegung betreffenden Voraussetzung meglieh sein [die Glei-
+ehung (50) aufreeht zu halten3 d. h.] (Jl und 02 gleiehe Werthe zu geben.
+
+Es wird also nun vorausgesetzt‚ dass sich die Bewegung nieht
+zu einer Drehung um die Ger-<lde durch den festen Punkt und den
+Schwerpunkt des Kbrpers redueiren kann. Der Augenbliek‚ in welehem
+die instantane Aehse sich der Figurenaehse des K61·pers am meisten
+nahem, werde zur Anfangszeit der Bewegung gewssihl‘m die Projeetions-
+linie der instantanen Aehse auf die {ty-Ebene mbge zur 3-Aehse genom—
+men werden. Daduroh wird
+
+‘lo =O
+und
+po > Ο .
+

@@ -1,0 +1,46 @@
+SuR LE DssVELOPPEMENT D’UNE FoNerrmN ANALYTIQLJE.
+
+κ]
+
+ΤΙιέονὲφηε ,Ῐοηᾶαφηεηίαά Corollaire.
+
+5. Dans 16 Tidskrift cit& *sai (1011116 une domonstration du thoo-
+161116 fondamental· sur l'intbgrale prise entre (166 limites complexos ¹).
+Je reproduirai ici cette dffinonstration, 611 la modifiant un peu pour plus
+(16 clarto.
+
+Posons lffnt&grale.,
+
+(17) U„ Ξ ιχαᾶςᾳ.) ds„ ‚
+
+prise suivant la Voio doerit& par 2„ du point a au point b, et supposons
+que la fonction f(2) soit syneotique pour 166 deux voies 21 et affl et
+pour l‘aire incluse entre elles; posons ensuite, pour Aa de'signant la
+diffissreuce d'une variable tout inde'pendante u,
+
+(18) - = φ,.<ε,.)Διι ,
+d'on l'on tire par difforentiation‚
+(19) daun — dgr = <p7.‘(z) (ΖΞΓΔ u 7
+
+01⁸1 la fonction ‹p„(2„) est supposesse arbitraz're mais syneotique pour la
+11161116 1έὲςίοΠ que ΛΖΓ) et de plus satisfaisant {t la condition,
+
+(20) (Ma) = ‹p,.(b) = 0 ⁷
+
+les? deux voies consocutives 2„H et 3,, &tant par suite, pour Δα infiniment
+petit, infiniment voisines l'une de l'autre; alors il s'agit (16 doterminer
+la (11116161166,
+
+(21) n U„ 41611611-βσωειεγ .
+
+Si l'on pose,
+
+Q Ξ M(2‚.) ‚
+
+Zr÷l —“ Z,-
+
+¹) Dans une Note rdeemment 11156166 dans le journal (16 Graue, M BALTZER a
+publio} une lettre tros remarquable de GAUSS {t SCHUMACHER de 1811, dans laquelle
+GAUSS 61101166 l'ide'e claire et procise de ce th60u‘2me et (16 son importante applica-
+tion au calcul des pe'riodes.
+

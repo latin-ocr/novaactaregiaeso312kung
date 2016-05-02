@@ -1,0 +1,31 @@
+SUR UNE §OMMATIQN DE QUELQUES SERIES.
+
+Dans ses legens sur supplicatim] du ealon] infinitesimal ἐι la
+theorie des nombres M. KRoNssoKER a introduit la uotion de discriminant
+fondamental, et i] a donne ee nom ὰ tout nombre Δ, qui est de l'une
+des trois formes suivantes:
+
+1.·0) Δ z P, oh ΡΞ 1, mod. 4,
+220) Δ z 4P, oh ΡΞ- 1, mod. 4,
+3:0) Δ = 8P, οὺ ΡΞ 1, mod. 2,
+
+pourvu que P designo un nombre entier, qui n’est divisible par auoun
+nombre carre En designant par
+
+(ἢ)
+
+le symbole de LEGENDRE, generalis& par M. KRONECKER‚ et. par ε le signe
+du nombre Δ, oe geometre eminent a demontre les trois formules
+sumantes:
+
+ 
+
+ 
+
+(1) {(†A) Ξ 0 ²
+(2) (ἦ 423) Ξ (ἦ) ’
+οῂ n> 0, ΙιΞΟ, et
+(3) ’ (Σ) = (ff) e> ,
+
+Nova Acta Reg. Soc, Se. Ups. Ser. 111. 1
+

@@ -1,0 +1,63 @@
+12 N. EKHOLM ET K. L. HAGsTRoM‚
+
+Oe sont les equations (13) dont nous avons fait usage pour le calcu] de
+r, et ⁷²2. Ensuite nous avons oaleule les ooordonnees d'apres les formu-
+
+les suivantes:
+
+ 
+
+ 
+
+ 
+
+ 
+
+,1²l -1- ,12
+
+(sclssllr¹ 2v2= [27‘2-l-l> ,ΕΞ 2
+- - 91 ‘l' 312
+
+(14) gs, — ml ν, ‘l2 = ²¹22 7'2 y - ς)
+Ζι ’1- 32
+
+Ζ, -- ⁹21 τ’, 22 = 722 '⁷2 -1- «5 z = 2
+
+ 
+
+De plus, la plus courte distance est donnee par la formule
+
+ 
+
+(15) Δ = 101 -- aar ÷ (11- 1212 ÷ (ει - 22?-
+
+7. Calcat cles erremus· ‹mffldaires moyennes. La possibilite de oal-
+011181, pour chaque observation individuelle, les erreurs moyennes⁷ au
+moins approxiniativement⁷ depend de 08 qu’il y a quatre angles observes,
+tandis qu’il n’en faut que trois pour oalouler la position du point vise.
+
+Cherohons d'abord a deterniiner les erreurs ἕως-(1181188, 811 vertu
+des principes enonoes au n⁰ 4.
+
+Comme il y a quatre angles independants les uns des autres,
+savoir lh„ l22, a„ αἳ, 11 faudrait en determiner⁷ en toute generalite‚ les quatre
+,81181118 moyennes independantes. Representons-les par les differentielles
+des angles 1111888 entre des oroohets: [dh,]‚ [dlz2]‚ [dal] [da2].
+
+Or 011 peut simplifier la question par les deux suppositions suivantes:
+
+1⁰) que les deux observateurs eommettent les memes erreurs moy-
+8111188, 811 sorte qu'on ait, d'apres les regles de la methode cles moin-
+dres carres,
+
+[cisely = [cll22]² et [(la,]2 = [da2]2;
+
+2⁰) que l⁷erreur moyenne 00111111188 dans le plan du grand cerole
+mene par la ligne (18 visee perpendiculairement au vertioal soit egale a
+celle oommise dans 18 vertical. Celle-ci est representee par [dlzl] ou
+[cll12]‚ et celle-la peut &tre 1118811188, sans erreur appreciable‚ le long du
+petit cerole horizonta-l passant par la ligne de visee3 elle est (10110 18-
+presentee par la projeetion de l’erreur azimutale [da1] ou [da2] sur 08
+petit cerole⁷ o’est-a-dire par [dal] 008 721 ou [da2] 008 722. On aura (10110,
+811 vertu de notre supposition⁷
+

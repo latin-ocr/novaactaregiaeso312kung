@@ -1,0 +1,52 @@
+DREHUNG ElNEs STARREN KORPERS. 7
+
+Wenn also Κ1>Κ2>Κ3 ist, so ist :1²- 2 TK3>O und 2 ΤΚ1 -A2>0;
+ist dagegen K¹ < K2 < KB, so wird A2—‘2 TA} < Ο und auch 2 TK1 -A2<O.
+Wenn ioh also die Aehsen so xviihle, dass die rs-Achse das der Grbsse
+nach mittlere Trdgheitsmoment hat, so werden α2 und 6², (10) gemes&
+mit Sioherheit positiv und folglioh α und c reell.
+
+Dureh Einsetzen der Wer‘se (10) fiir α2 und οἳ ergibt sich ffir
+e2 — e3 :
+
+(Kl - K2) (A2 - 2 ΤΚΒ)
+(Κ2 - [(3χὲ ΤΚ, -- ΑΞ) ’
+
+⁶²2 ‘- ε’3 = ὲ (ἦ ⁶²3)
+
+ 
+
+Der Bruoh der rechten Seite ist aber hier positiv; wir mtissen
+daher das Zeiehen 4- nehmen, weil 32- e3 und (ει-63 auch positiv sein
+sossen. Wir haben also
+
+(Al - 1³⁷2> (ΑΞ .- 2 TK3>
+
+³² “ ‘³³ Ξ (⁶³¹ “ ³³) (Κ2 - Κ3) (2 ΤΚ1 - ΑΞ) ’
+
+ 
+
+ 
+
+oder wenn wir zur Abkfirzung die Bezeiehnung
+
+(Κ1 -μ [(2) (Α2 - 2 TA'g)
+(Κ2 - [(3) (2 ΤΚ1 - ΑΞ)
+
+(11)
+einfiihren⁷
+(12) 62 — 63 = RQ - ⁶23) .
+
+Wfirde nun indessen befunden werden, dass R> 1 ist, so wfirde
+62— e3>e,- ⁶³3 und also εε2>61 sein, was der vorhergehenden Annahme
+el> 62> 63 widersprioht. In solehem Falle machia man nicht von Anfang
+an die Annahme⁷ wie in den Gleichungen (5) gethan ist, sondern man
+vertauscht die Indices 1 und 2 der &Funktionem so dass man dann
+
+p = αξ23<7ητ -4- η) ‚
+
+setzt. Austatt der Gleichung (12) erg-ibt sich nun
+‹31-e3=R(e2—e3) ,
+
+und wir bekommen e1>e2‚ wie wir wfinsehten.
+

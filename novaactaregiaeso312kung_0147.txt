@@ -1,0 +1,52 @@
+DREHUNG ElNEs ROTATIONSKORPERS. 45
+
+Aue der Formel (48), wie 8118 (49), folgt unmittelbar, dass die
+instant-ane Achse den gressten Winkel mit der Figurenaehse des Kbrpers
+macht. wem]
+
+t=t0÷w÷2mw (m=071‚2,..)
+
+ist, weil (181111
+
+1)st “- το) Ξ ⁶⁹1 1
+und
+
+p(t— ²0 ψ ⁶02> =124w3 ψ 2<m ΔΓ ww}
+=2³Cw3>2 63
+
+ist, und folglich P²÷ q² 88111811 Maximiwerth hat.
+
+Ffir die Bestimmung von Ι) und <J als Funetionen der Zeit tkann
+man folgenden WVeg einsehlagen: p ist die Projection der Drehungs-
+sehnelligkeit ὡ auf die ξ-Α81188, q die Projeetion derselben auf die rs-
+Α81188. Mann kann 8180
+
+ 
+
+st = VJ? ψ <1² 0080
+
+ 
+
+‘J = 11124- <2² Sinv
+
+sehreiben, wo v der Winkel zwisehen der g-thse und der Projeetion der
+instantanen Achse auf die §tq-Ebene ist3 also eine Funotion der Zeit t* to.
+Diese zwei Formeln gelten fiir alle in der ξη-Ε118118 liegenden und zu
+einander senkreehten Rieffiungeu, die 818 ξ- und ‘ts-Aehsen gewfihlt wer—
+den. 818 8011811 8180 80 ἓ8ῑν81111 werden, dass die Bestimmung der 8118-
+lytisehen Function v 80 viel wie meglieh erleiehtert werde.
+
+Aus den zwei letzten Gleiehungen bekommt 111811 81818118
+
+2:⁴2
+Ρ
+
+gl).
+
+Zweitens: weil υ 81118 analytische Function der Zeit t—to sein 80117
+80 ist
+
+v=K0÷I<1(t-t0)-÷-K2(t-t0)2÷...7
+
+wo die Coeffieienten ΚΟ ‚ K1 ‚K2 7 . . . zu bestimmen sind.
+

@@ -1,0 +1,74 @@
+12 GoRAN [HLLNER7
+
+cela, dcsignons par 050 la. plus grande valeur dc Τζε) pour (3- ao) dc-
+crivant 16 contour C3 alors, on aura,
+
+T3s÷d1009
+
+En supposant ρ croissant de ρο a 91, deficroissant de 91 a 92, et
+ainsi dc suite, on obtiendra‚
+
+ΧΤ
+
+iesnltat fini pom des valeurs finies dos quoticnts 9—¹ 7 -9—2 ⁷· .. . On
+
+ρο QX
+tiouvera 16 meme resultat pris cn sens nogatif si ρ Va en dccroissant
+
+du point initial ρο. Donc, pour un contour fornic quelconquc C dont 16
+rayon vcctcur ρ nc prosente quo dos maxima et dos minima comparables,
+on aura
+
+(37) R = 0
+
+d log ρ
+
+ 
+
+ 
+
+ 
+
+dlogp jdlogp—sdiogo-4- =log
+
+ 
+
+ 
+
+ 
+
+sous la condition que7 pour ε (166Γ1ν3ῃ13 16 contour C,
+
+(38) lim 1( Τ - a2)-AE)--i Ξ 0
+
+ΙΖ-αο l—oe—a0] ⁷
+z—ao
+
+condition qui est rcmplie dans les deux cas suivants:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1⁰ les quantitos z et —Qfimgg' Τ ³7 -” 0⁶0 ἰ < 1 et
+1 -— ”v — αθ Z ““ ao
+Z — οιΟ
+
+lim η = 00 [Tn⁰ 21];
+
+2⁰ lim Z = -ὲη lim ΝΖ) = Ο , pour une ccrtainc valeur dc 7z[Tn⁰37].
+
+(Ζ - αο)”
+
+ 
+
+Sous cetto condition Za fonction analytique ιγ’(εε) est de'veloppe'e en
+se'rz'e, suivant l'identite' (34), pour zm contour de converqence qui o'enferme les
+infimis uniformes a, ‚ . . . ‚ av , d'ordres respectzfs ‘ml , . . . , m21.
+

@@ -1,0 +1,32 @@
+UBER DIE DREHUNG EINES STARREN KORPERS,
+AUF DEN KEINE KRAFTE WIRKEN, ΠΜ ΕΙΝΕΝ FESTEN PUNKT.
+
+(Das Problem, mit WmERSTRAss's elliptischen Funktionsformen behandelt.)
+
+Das Problem der Rotation eines starren Kbrpers⁷ auf den keine
+Kriiste Wirken‚ um einen festen Punkt ist zuerst von JACOBI vollstssindig
+gelbst ¹). Seitdem haben GREENHILL ²), HERMITE 3> und KIRCHHOFF 4>⁷ sich
+ἱΪΑΟΟΒῙΞ elliptischer Funktionsformen bedienend, aus verschiedene Weise
+das Problem behandelt. Der Letzte hat es doch nicht vollstandig zum
+Schluss gebracht7 indem er die eine Grbsse (die im Folgenden mit ψ
+bezeichnet wird) nur zur Quadratur gefiihrt hat und nicht gezeigt hat,
+wie man das Integra] derselben finden kann. Meine Absieht ist nun,
+demselben Weg wie KIRCHHOFF folgencl, aber indem ioh mich WE1ERSTRAss’s
+elliptischer Funktionsformen bechene, das Problem zu Ibsen. Dadurch
+wird gewonnen, dass sic-h auch die letzte Integrierung (die, woduroh
+man ψ ὺΘΙῑοῃῃῃῒ.) leicht ausffihren lasst.
+
+Seien ιτ, y, ε und ξ, η, ζ die Koordinaten eines Punktes des
+KbrperS, auf versohiedene KoordinatensyrSOEme bezogen, beide mit dem
+festen Punkte zum Anfangspunkt, jene im Raume fest, dies& im Kbrper
+fest, mit demselben sich bewegend. Die Aehsen der ξ, η, ζ seien zu-
+
+1) Orelle B. XXXIX, (1850).
+2) Quarterly Journal B. XIV, (1877).
+
+3) Comptes Rendus de l'Acad. des Sciences T. LXXXV und T. LXXXVI,
+(1877 und 1878).
+
+4) KIRCHHOFF: Vorlesungon Uber mathematische Physik, Leipzig 1577. S. 63 u. f.
+Nova Acta Reg. Soc. Sc. Ups. Ser. 111. 1
+

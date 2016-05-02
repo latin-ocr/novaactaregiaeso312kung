@@ -1,0 +1,68 @@
+1 6 NAT. LINDSKOG,
+
+und Vergleiohung der Koeffioienten finden kann⁷ und wo P(u> eine ge-
+thnliche Potenzreihe ist, welche weder ffir u = ul noch fiir u = --ul
+unandlioh werden kann.
+
+Aus der letzten Gleiohung folgt
+
+u — τι1 = CI -Ι- (u — ²⁶1) C2
+
+W) — F u ÷ ÷ <u — u1>P<u> -
+
+ 
+
+ 
+
+Setzen wir hier u = ul, so wird die linke Seite von der unbe-
+
+stimmten Form g, durch Differenzierung aber wird leiohts ersictlich,
+
+dass ihr Wert - „l
+Ρ (221)
+
+ist. Es ergibt sich also fiir C1:
+
+ 
+
+1.ss
+
+0¹: ΜΨ) ’
+
+ 
+
+In desselben Weise bekommt man
+
+αἰ ¹ .
+⁸ 21'(— ΠΙ)
+
+Weil aber die p-Funktion gerade ist, muss die p'-Funktion unge-
+rade sein und also p'(- ul) = —p‘<u1) 3 solglioh
+
+ 
+
+ 
+
+ 
+
+ 
+
+(32 Ξ ῌ ‘1
+P (ul)
+und C2 = — C1 , wie es ja sein sollte.
+
+Um den Wert der Konstante Co zu erhalten, wird hier am ein-
+faehsten u = Ο in der Gleichung oben fiir P(u)1— F 7 in welche. Co ein-
+geht, zu setzen sein. Der Ausdruok fiir Mu) beginnt mit {3 ¹), also ist
+p(u> unendlich fiir das Argument Ο und folglioh Mu) 1— F = O ffir das-
+
+selbe Argument. Wir bekommen daher
+
+013513513 2551? ·
+
+ 
+
+ 
+
+1) SCHWARTzz S. 10.
+

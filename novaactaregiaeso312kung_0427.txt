@@ -1,0 +1,82 @@
+SUR LE DEVELOPPEMENT D'UNE F0N0T10N ANALYTIQUE. 13
+
+8. On distinguere 11016 parts (111 developpement (34): 1⁰ la sc'm‘e
+de. Taylor; 2⁰ la ,φάν-ἱρῇ adjointe, forlnee par 16 somme des 661166 661111116-
+bles 6 66116 (16 Taylor3 3⁰ la part οοῃψίώηιῑηίαὶιί), 10111166 par In somme
+des 661166 procedant suivant 166 puissanoes negatives (16 (1’-- 6,). 011
+fera de plus les deux remarques snivantes sur 16 developpement (34).
+
+1⁰ La condition (38) 1⁰ etant relnplie⁷ 61 T(oe—a0)< Τ(α,.-αο)
+(r = 1 , 2 7 . . . , ν), 16 fonction f(‘'³³) 661 identiqne 6 16 serie de Taylm,
+la somme de 16 serie adjointe et de 16 part complementaire 616111 par
+611116 1111116; 61 611 6011116116 T(.v — ao) > T(a⁷. — (10) (ν = 1 ‚ 2 ⁷ . . . , ν), 16
+serie de Taylor et 16 serie adjointe 60111 tontes deux divergentes 111616
+leur somme est convergente pour tous 166 points au (16(16116 dn contour
+de convergence, 16 difference entre 16. fonction va) 61 66 part comple-
+mentaire etant finie [Τι]Ο 34, anm.].
+
+2⁰ La condition (38) 2⁰ 616111 remplio, 16 fonction f(oe) est iden-
+tique 6 16 somme de 16 part complementaire 61 (166 n premiere termes
+de la serie de Taylor et de 16 66116 adjointe, 16 nombre η ayant une
+valeur quelconque. Donc‚ 61 λ 661 16 plus petite valeur de η pour qni
+
+16 condition (38) 20 soit remplie, On aura 166 deux developpements
+identiqnes,
+
+f«v> = {mo ÷ Ξ Agr> ξ ÷ {feo ψ Ξ Ar> ξ <x - (61- - -
+
+(rt—1>
+
+,Ι- f (ao) 4 νΞν Ago—1 ξ (oe— a0)⁷²'¹ ,Ι- la part complementaire ⁷
+νει
+
+ἶφι-1
+
+ 
+
+ 
+
+(λ-Ι)
+
+Ῐ<αο>1ΞνΑξῃξψμμι-ἕιίῖ-αᾟ) ,1,Ξῖ Ago—1
+
+ 
+
+fon> =
+
+(ae - a0)¹³‘¹
+
+ 
+
+ 
+
+ 
+
+-1-16 part complementaire3
+
+donc 166 coefficients des puissances (oe — αο)λ , . . . , (ae — αο)”“1 (111 premier
+developpement doivent 6116 identiquement 111116 [Τ 11⁰ 37], c'est-a-dire
+
+(λ)
+
+r> ψ Ξ =0⁷
+
+ 
+
+ 
+
+(39)
+
+⁹ 7
+(72-1)
+
+fla& 43 *4521 = 0 ‚
+
+1η- l νει
+
+ 
+
+ 
+
+ 
+

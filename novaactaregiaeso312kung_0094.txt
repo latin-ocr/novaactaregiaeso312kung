@@ -1,0 +1,43 @@
+12 M. Fax,
+me<t>i<p¹<t><2t = swa> ÷ ψω] [wo ψ 2010]th -
+
+Le theoreme est donc demontre dans le eas oh F‘(2), ‹p‘(t) et
+ψ’(ιέ) sont continues.
+
+14. Supposons comme auparavant que F'(2> soit continue mais
+que (ρ’(ϊ) soit (liscontinue au point t= τ entre t = Ο et t= 8, o’est-a-dire
+que la courbe g: φῇ) soit brisee au point determine par τε τ. Alors
+nous tracgons⁷ dans l'interieur de la partie du plan, une courbe non-brisee
+
+c: m>
+
+par les troie points t: Ο, t= τ et t: s. En vertu de oe que nous
+venons cle dement-rer au n:o 13, nous avons ici
+
+s'Fafflwwdt =s⁷F[‹1>1<t>]w‘1<t><2t ‚
+
+s⁵ffa<t>w¹<t>dt = s⁶Fa1<t>i202<t>dt ,
+(1Ὀὴ par l'acldition
+fmo] φ’(τ) dt =sft⁷ioe1<t>wa<t>dt ‚
+
+dest—a-dire que l'integrale relative a la oourbe brisee ζΞ φζτ) est egale
+a l’integrale relative a 13 oourbe non brisee ζε φ1(τ). Cela s'etend de
+la meme maniere au eae οὺ 13 oourbe g: 9005) est brisee en un nombre
+
+fini queloonque de points distincte. Si l⁷autre oourbe g=5p(t)†1p(t)
+est aussi brisee‚ on la remplaoera de la meme maniere par une courbe-
+
+non-brisee passant par les memes points extremes et par ses points
+singuliers. Les integrales relatives au deux oourbes non-brisees etant
+
+egales en vertu du n:o 13, celles relatives aux courbes brisees le sont
+aussi. Le tlze'oriwne est donc demontre' pour le cas ola F‘(z) est continue et
+quaml les eourbes Ze long] desquelles ffintesgyrale est prise ne sont pas brise'es
+
+en zm nombre infimi de points.
+
+15. Supposons enfin que F(z) soit ‹liscontz'nue en un nombre quel-
+conque (Ze points clistz’ncts dans la partie du plan3 le tlze'orbme restem vrai
+
+aussi dans ce aas.
+

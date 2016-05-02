@@ -1,0 +1,93 @@
+2 NAT. Lmnsme,
+
+gleioh die Hauptachsen des Kbrpers im festen Punkt. Die Cosmus der
+Winkel der ξ-, ”ty-7 'g-thsen mit denen der at, y, z megel] aus folgen—
+der Tabelle
+
+ 
+
+ 
+
+'a
+ἶ,
+
+1
+
+ 
+
+'l
+
+ιΊ] α]
+
+[2'1
+
+&2
+
+βξ
+
+(13
+
+βδ-
+
+ 
+
+ 
+
+ 
+
+ 
+
+Ι
+
+ 
+
+ 
+
+ 
+
+y
+
+ 
+
+ 
+
+ 
+
+ΥΞ ,Ι 7¹³
+
+7²1
+
+ 
+
+erhalten werden.
+
+Der Winke]‚ welohen die Knotenlinie der Ebenen der ξη und der
+my mit der oe-Aehse bildet‚ wird mit ψ; der Winkel, welchen dieselbe
+Knotenlinie mit der 5-Achse bildot, mit ([ι; und der Winkel, welchen die
+beiden Ebenen mit einander bilden, mit θ bezeichnet werden. Die Winkel
+ψ, φ, θ sind also die sogenannten Euler-schen Winkel.
+
+Denken wir uns nun um den Anfangspunkt mit der Einheit als
+Radius eine Kngel beeclffieben, und bezeichnen wir die' Punk'te⁷ WO die
+Achsen die Kugel durchbohren, mit den Zeiohen der Achsen und den
+Durohbohrungspunkt der Knotenlinie mit D, so erhalten wir leioht aus
+nebenstehender Figur, wenn wir spherisehe
+Dreieeke‚ fiir welche immer eine Eeke in D
+liegt, betrachten, folgende Gleichungen:
+
+α1 = eos φ cos ψ — sin φ sin ψ cos θ ,
+“2 = - sin φ cos ’ψ - cos φ sin ψ cos θ ,
+
+ 
+
+“a = sin ψ sin ὗ) .,
+
+β1 = cos φ sin ψ -f- sin φ cos ψ coe θ ,
+
+(1) (32 Σ - sin φ sin ψ -}- cos φ eos ψ eos θ ,
+N (33 = Ἀ eos ψ ein θ ‚
+γι = sin (s) sin ὗ) ,
+9¹2 Ξ eos φ sin 2¹} ‚
+
+2‘2 = cos ἶ) .
+

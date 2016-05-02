@@ -1,0 +1,86 @@
+801< LES FONC'FIONS ELLlPTIQUEs 50⁶). ll
+
+En faisant, dans la formule (10) n = —m -f- 3 ‚ on aura une for-
+mule de seduction de l’intt'zgrale J =s{p(u)- a}'” <Iu .
+L⁷integrale
+
+ 
+
+ 
+
+” (lu
+f ww) - a} 2
+
+peut &tre caleulee par la form-ale de reduction generale (10). Ello peut
+aussi &tre ealoulee par une dos formules qu'a de'duites M. WEIERSTRASS
+pour le theorema de l⁷addition de la fonction elliptiq11ep(u).—- En
+effer, on 21¹)
+
+[fflssU1—w]wffl) Ἠ<ᾒῗ4ῗῗζζφΜώ-ωῖβωψψλ
+16-971
+
+En posunt dans cette &quation p(v) = (ι , et en l'integrant, on aura
+
+ 
+
+Pfflssm=mffl÷
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+4 ἡ (Ia m—20'(ussv) *2 -12a2-92 du
+( αδ - 9² α Q) {p (ιι)- (ιῖἓ — &Qu ssv) au 2 fimo-(1 ὲ
+ss³1s4a —y2a—L— 9-3 .
+
+p(u)— a
+
+0²(sz ss v)
+
+, nous y reviendrons
+o(ussv)
+
+Quam: ἐι la valeur de la fonction
+
+ 
+
+ 
+
+en traitant l'integrales du .
+μω) - α
+l
+
+Soit‚ dans la formule (10), n Ξ nombre entier ÷3 .
+
+Quelque grand que soit η, en employant plusieurs fois la formule
+de reduction (10), on pourra rendre l’integrale propose'e dependant des
+integrales
+
+sllpmilj affl ᾖ Vpocgb α , ὶῘΡΟι) - adu 7 sffloffl) - amen .
+
+ 
+
+ 
+
+ 
+
+Caleuler [α valeur de l'inte'fflule
+
+μω J: sfflmffu α.
+
+1) Voir SCHWARZ (3) ξ 12 p. 13
+
+ 
+
+ 
+

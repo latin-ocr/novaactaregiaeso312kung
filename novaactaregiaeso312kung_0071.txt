@@ -1,0 +1,49 @@
+SUR L⁷1NTEGRATION DEs EQUATIONS DIFFERENTIELLES DU PENDULE CONIQUE. 3
+
+(n) Pcw=mmhaeoc÷ww-c=2ac-2c-ec-o‚
+
+02,ss et‘y etant· ainsi 188 trois moines de l'equation cubique P(:) = O.
+Puisque P(-00) >0 et P(— 1) = - ff, on a une (188 ‘trois racines y < ἡ 1;
+ensuite, puisque s doit. avoir un maximnm et un minimum, ces deux va-
+leurs serent en vertu de (10) respectivelnent les deux autres racines a
+et β, la plus grande racine οι etant necessairement positive'it cause de
+l’equation oek'> -Ι- acy ψ ,Θγ = - 1, et *tontes les deux comprises entre -†- 1
+et — 1 ἐι cause de l'equation (5). A 888 points de maximum et de mini-
+mum de ε on a
+
+cm ss=ss-fffl2=c—ffflv‚
+
+V et V1 etant les valeurs de v respectivemen‘s pour ε = οι et ε z β.
+De l’cquation (5), deux fois differentiee et combinee avec (9),
+011 tlre,
+‹l21r 1l²1zs (Vs Β ᾗ
+2vff÷yff÷2ff÷251(2÷0)=02
+resultat qui au moyen du syst‘eme (l) 88 transformera dans l’equation
+suiv-ante,
+
+(13) N: 3572-ff-290.
+
+Ᾱ l'aide de cette equation 188 deux premieres equations (1), eu
+egard ὲ. la formule (4), 88 transformeront ἐι l'equation suivante du second
+ordre et de forme complexe,
+
+(14) ‹J2 Y
+
+dt? ..Ι- (393 -1- 290) Y: O⁷
+
+ 
+
+c'quation qui, apres l'elimination de z au moyen dc (10), prendra la
+forme d’une equation (18 Lame. (3881- en employant l'integrale connue
+de cette equation que M. Hernnte, dans les Notes citees, a developpe les
+proprietes du pendule.
+
+Apres 888 preliminaires je vais⁴ exposer la methode annoncee ci-
+dessus.
+
+Formules 9έ]ιέφἀί63 pour ἐξεμήνιεν les zhle‘yrales du pendule.
+
+2. D’apres la formule (2) de rna seconde Note dejssz 81188, on a
+en general, P(2> et νψ(ε> etant. des polynomes ἐι coefficients constante,
+ε, la r-icme des n racines de 1 et Ml ⁷ . . . ‚ ΖΙ]μ (188 entiers posi‘cifs⁷
+

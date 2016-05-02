@@ -1,0 +1,53 @@
+Sua LE DEVELOPPEMENT D⁷UNE FoncrloN ANALYTIQUE. 3
+
+Fonctz'on uniforme el mullisorme. Fonote‘on. synectz'que.
+
+2. La fonction ιγ’(ῑ) est dite mmfo'rme ou multzforme pour le
+point α suivant qn'elle ne change pas ou qu'elle change de valeur pour z
+deorivant le cerole [P. Ordinairement la fonction ιΜΞ) est dite uniforme
+51 6116 est uniforme pour tous 165 points du plan. Pour avoir un ori-
+terium de l‘uniformite ou de la multiformit& d'une fonotion f(2) pour un
+point singnlier α, etudions l'integrale, dite oironlaire,
+
+ἠῶ
+
+ 
+
+(6) j ι]““’<;)(Ζε ν
+υ f<2)
+prise autom· du oerole Θ. En mettant (ς -α) sous la forme complexe,
+
+:—a=pe²⁴⁶,
+
+oil, d’apres les notations d⁷Hamilton, ρ et 6 designent respectivement 16
+tenseur et l'angle de la quantite complexe (Z -- a),
+
+0=Toe—m‚0=Aoe—m‚
+11 s’ensuit, ρ etant 16 rayon du cerole Θ,
+dlog(z-a) = id63
+
+dono, en prenant l’integrale (6) entre 165 limites θ = Ο et θ = 2⁷1, on
+obtiendra d'apres (3), pour ρ evanouissant, oe resultat,
+
+&f
+
+ 
+
+ 
+
+ 
+
+ 
+
+§2322 = «235³ w sttQ =
+
+«l ι
+
+011
+f(a ψ vem) = f(a ΔΓ ρ) emi -
+En repetant cette operation lc fois, on aura la formule generale,
+(⁷) f (a ψ vem> = f(a ψ ε’) emm ‚
+
+formule qui annonoe que la fonction f(z) est uniforme pour 16 point
+singulier pur α 51 μ est entier, mais multiforme pour 16 point singulier
+

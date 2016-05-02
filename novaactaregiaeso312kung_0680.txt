@@ -1,0 +1,56 @@
+18 N. EKHOLM ET K. L. ΗΑ661116Μ,
+
+9. Calcul cle Ια marche et (Ie la vite-sse clu mcalqe fait ὰ Z’aide (les
+coordormdes rectangmlaz'res observae'es plusieurs fois d'mz 11ῑό1118 point (Ze mcaye.
+
+Si l'on a observe plusieurs fois, tout 611 notant 16 temps precis
+d'observatiom un meme point d’un nuage, les 6661ε161111666 reetangulaires
+(166 positions successives du point nous donneut les 6161116111-6116666661166
+et suffisants pour 611 661611161· 16 mouvement.
+
+En effe‘s,7 soient m, y, z, (τ’, ys, ε’, π’, ff', 2⁰, . . . . 166 6661ς161111666
+611666661ν66 du point et t, t', Γ, . . . . 166 temps correspondents.
+
+En formant les differences
+
+»ι’-αϊ, “y—ff, 2--2'7
+
+Jj‘jat'ss ff—,sss‘ss Z'—Z‘'‚
+
+611 obtient les (16])166611161116 61166666116 parallelement aux axeS‚ positifs si
+16 mouvement a 11611 ἐι parth· des sens positifs des axes vers leurs sens
+neg-atiss, negatifs dans 16 eas contraire. En divisam. 666 deplacements par 16
+nombre de secondes des intervalles de temps 6666666116 t'—t‚ t''-t', . . . .
+on aura 166 vitesses pavrallelement aux axes, exprimees en metres par
+seconde. Or comme 11 est sans aucun intel-et de oonnaitre sepe-trement
+les composautes horizontales, 611 doit, au 11611 de cela, calculer les vi-
+166666 horizontales resultantes, (16611666 par les expressions
+
+t‘—t
+
+ 
+
+ffb , ἥτ’-ΗΥ ÷ §ys—9¹3²
+t' ‘—-z‘
+
+ 
+
+ 
+
+de meme que les vitesses verticales
+
+1
+z—z· s 3 —Z
+
+(23) U³=t'—t⁷ ”2:t‘sJ’···
+
+ 
+
+ 
+
+De plus, eonnaissant les erreurs moyennes des Z et des intervalles
+(16 temps 611 pourra ealeuler les erreurs moyennes de υἱ. Pour nos ob-
+servations nous pourrons negliger les erreurs des intervalles de temps.
+Alors, repraesentant par m, m' les 61161116 moyennes des Z et ε’ respec-
+tivement, et par M, celle de v„ 611 aura
+

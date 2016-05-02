@@ -1,0 +1,66 @@
+DREHUNG EINES STARREN KOERPERS. 9
+
+ὁ2 und 112² sind also auch (wie α2 und 6²) posstiv, da die JJ-Achse
+die Achse des mittleren Tragheitsmoments ist, und b und m sind
+folglioh reell.
+
+Nun sind also alle Konstanten mit Ausnahme von η bestimmt.
+XVenn wir in den Gleichungen (5) t= O sewen, erhalten wir
+
+(15) 2²0 = a513(n) , ‘ln = (750301) , 7‘0 = 052302) .
+
+Aus einer dieser Gleichungen (welche es 311011 801) 8011 η ent-
+nommen werden. Wie eine solche Gleichung aufgelcst werden mag,
+wird 8113101 angegeben werden.
+
+Nun haben wir freilich die Drehungsgeschwindigkeiten um die
+im Kcrper festen Achsen in jedem Augenblick bekommen, damit aber
+weiss man nicht die Lage des Kcrpers. Hierzu wird erfordert, dass
+man die al, β1 . . ..73 oder auch die ψ, φ, θ, durch welche οι1 . . . ,913
+(10111 Systeme (1) nach bestimmt werden kmmen, kennt.
+
+Es sei die <vy-Ehem der sogenannten unverenderlichen Ebene
+parallel und also die z-Achse die unveriinderhche Linie. Danu hat man ja
+
+Klp :71 ᾖ J<2q -Μ [(31ὶ
+A
+
+ 
+
+ 
+
+A —122 A 733
+
+ 
+
+deun in diesem Faue liegt (138 ganze A langs der s-Achse⁷ und Klp,
+K2q, K3r sind (1088011 Komponenten.
+Man setze die VVerte (5) der p, q, r ein, und 111311 bekommt
+
+ 
+
+ 
+
+71 = {¹ a513(mt -Ι- 72) ⁷
+(16) 712 = {² b303(mt -2- η) 7
+[13
+
+6523(mt -ξ- n) .
+
+ 
+
+7³² A
+
+ 
+
+Mit Hfilfe des Systemes (1) ergibt sich nun
+
+(17) 008 θ = {3 σξ23(9ηῐ -f- η) ,
+
+ 
+
+to-qfflffsszffl-Q·
+D 72 ΚΞ b ξ03 (mt 4- η)
+
+Nov acaAtRegfflm e.s. Ups se .111. 2
+

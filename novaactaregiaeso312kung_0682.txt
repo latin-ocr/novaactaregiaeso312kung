@@ -1,0 +1,61 @@
+20 N. EKHOLM ET K. L. HAGSTReM,
+
+calculant de nouveau ἐι l’aide de la valeur moyenne des ε successivement
+observes. Nous avons fait ce calcul d'apres l’une des deux methodes
+suivantes, qui donnent sensiblement le meme resultat.
+
+Soit, pour preciser‚ zm la valeur moyenne des z et representons
+par l'indice m attache au symbole les nouvelles coordonnees calculees a
+l'aide de zm.
+
+Nous aurons
+
+ll Zm-
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+oelm = ll 7¹¹ m Ξ -ἠῑ Ὶ ι131111 ''l‘ 3132721.
+⁷¹m Ξ 2 7
+ψῃ, = b ΔΓ {2 rw = b ψ ΖΞ (²²⁷² ἓ),
+71
+(25) ²
+m, Zm
+ylm Ξ „ll Tlm Ξ *Z* 7 ylm 4-qu
+(λιιι ² ·
+1112 (Ζ7η — 1) 2
+μμ = ⁷²²2 '²'2m = - m ‚
+De la meme maniere on calculera les oe‘m, Vm, ae'‘„,‚ μ’ ,,,,,,,
+
+O’est 13 premiere methode de ca]cul; elle revient, a ce qu'on voit,
+a calculer les coordonnees du point milieu des deux points 011133 rayons
+vecteurs percent un plan horizonta] mene a 13 hauteur zm.
+
+Pour faire 13 calcul d'apres l'autre mfflhode, menons une droite
+par le point milieu de T1T2' et le point P3 elle percera le plan horizon-
+tal mene a la hauteur zm dans un point dont les coordonnees serent nos
+coordonnees demandees. A l'aide de triangles semblables on obtient
+
+ 
+
+7
+z—÷b=}m<oe—÷b>‚ 1 εξῃ
+(26) ¹ —Q ’ῆι ² —Q ν
+ιῖῧηιὲό- 31(OE ffb), y7n-Ztgs
+
+Ces formules nous donnent la cleuxieme methode de calcu13 elle
+est plus commode que la premiere, mais elle est peut-etre moins exacte
+que celle-la. On reconnait aisement que les deux methodes coincident‚
+
+si les deux rayons vecteurs se rencontrent au point P.
+Apres avoir ainsi corrige 133 coci-donnees, on calculera la vitesse
+
+et la marche du nuage d'apres les formules (22) et (24).
+

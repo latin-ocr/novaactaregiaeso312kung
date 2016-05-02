@@ -1,0 +1,43 @@
+DEMONSTRATIOR m] THEOREME DE CAUOHY SUR L⁷1NTEGRALE
+D'UNE FONOTION OOMPLEXE.
+
+1. En &signanm comme le fait M. WEOERSTRASS, par ΙαΙ le mo-
+dule de a, 011 a le tlffioffime connu qui est contenu dans la formule:
+
+l<11÷a2÷---a12lgla1l÷1a2l÷--·÷!a„!
+
+ΟΠ
+
+ 
+
+ 
+
+ 
+
+2. Par
+
+nous entendons la limite
+
+β - α
+Π·
+
+’ qm ”issa ÷ 2- β - α)
+
+’Π
+
+ 
+
+ 
+
+Nous supposons ici α, (³¹, t melles, mais f(z‘) est suppos& com-
+plexe. ’
+
+3. Sz' α et β sont finies ρτ que f(t) soit umforme et continue pour
+tontes les valeurs re'elles (Ie t depuis t: α jusqzc'& t: β, la valeur cle. Μη-
+te'yrale deffinie
+
+j“‘³[f·<2><1†
+
+est finie et patjfaitement cle'terminde.
+Nova Acta Reg. Soc. Sc. Ups. Ser. III. 1
+

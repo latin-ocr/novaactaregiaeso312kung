@@ -1,0 +1,84 @@
+SUR LEs FONCTIONS ELLIPTIQUES ξω). 27
+
+Ι)6 la dernfflre des &quations (6) p. 3 on obtient
+
+oesswfflmw÷m-m÷w—mffiwfiw‚
+
+d'0t1
+
+ 
+
+ 
+
+fflw2ffl-ffi—Q-ffifflw-
+e), — θμ e), - effi
+
+La premibre des &quations (6) p. 3 peut se transformer en
+
+1 l
+
+ 
+
+ 
+
+ξίμῼι) .
+
+so ξἣκῖι) =
+
+e) -— εμ e), -- εμ
+
+En substituant, dans l6quati0n (7), les valeurs de ξ,ῗμ(ῑι> et (16
+§mm , on aura
+
+js<m2w2ww=-m÷2sjgfflwm÷
+
+ 
+
+÷u½÷w25121323ffl<uw-Affl-ss s-ww-
+
+6), — θμ μ e) ψ- effi
+
+En remplagant, dans cette Quation, lc par n —3 et en l’intffegrant,
+on en obtient
+
+(8) fissp<²⁶)du=—— 1 θ’-θμε goffia), (ῃ.)ε;υῑ3(α).-
+
+η--Ι θμ-ε
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+— 3 η - 2 ἒν [ξέᾗῖᾳὼᾱα ψ ⁹2 ·“ 3 e), ’- ‘³²' sffffiffiufilu .
+
+η-1 θμ-θν n-l egl—ev
+Cette formule (16 Γὲᾶῃοϊίοῃ est applieable, si ce n⁷est que η = 1.
+Quelque grand que soit ῃ, en employant plusieurs fois la formule de
+r6duc‘sion (8), on arrive aux intsgrales J, =s52uC1⁶>du et <12 :sgifflfiodw —
+
+Pour J, voir les &quations (4) et (5); pour J, voir la formule (C) p. 4.
+En faisant, dans l’inffigrale (6), λ, μ = 1 , 2 , 3 , la formule (8)
+donnera, en versu des formules (12) pp. 5, 6, les Valeurs des intcfigrales
+
+sin⁷1 coam u . clu , du ‚ cosnam u . (lu , s du ⁷
+' sm⁷¹ eoam u υ cos⁷¹ am u
+
+clu
+&⁷¹ am u ⁸
+
+ 
+
+ 
+
+ 
+
+jAE⁷¹ am u . clu ‚
+

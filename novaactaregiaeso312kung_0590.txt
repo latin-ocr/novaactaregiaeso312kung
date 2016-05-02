@@ -1,0 +1,53 @@
+8 NAT. LINDSKOG‚
+
+Ware dag-egen R Ξ 17 so wfirde el = 62 sein, und unsre empti-
+sohen Funktionen wiirden einfach-periodisoh werden.
+Im Folgenden nehmen wir an, dass wir
+
+R<1
+
+haben, und gebrauchen also die Gleichungen (5) in der Gestalt, welche
+sie da haben. Der Fau R>1 lssisst sich ganz analog behandeln, und
+der Fan R=1‚ wo die Funktionen einfaoh-periodisoh werden, wird
+natiirlioh der einfachste.
+
+Um die Gressen el, 02, <33 zu bestimmen, haben wir bisher nur
+eine Gleiohung (12). Immer aber miissen sie die Gleichung
+
+e1÷e2÷e3=0
+
+befriedigen¹). Aus dem Probleme bekommen wir keine Bedingungen
+mehr, ausser dass 61>62>63· Wir k6n11en daher fast willkfirlich eine
+Bedingung annehmen, und am einfachsten wird wohl
+
+el--e3zl
+
+zu setzen sein. Meine drei Gleiehungen, um 61, ⁶³2, e3 zu best-immen,
+sind also:
+
+62—63=R(el-e3)
+el†e2†e3=0
+
+61—6’321 .
+
+Aus diesen bekommen wir
+
+¹61=÷(2-R>,
+(13) e2:÷(2}3- 1),
+ἱεΒΞ-ὲωψῌ).
+
+Duroh Einsetzen dieser Werte von el, 63 und der Werte (10) von
+σι’2 und 0² ergibt sich aus den Gleiehungen nach (10) fiir b² und m²t
+
+,392 Ξ A2- 2 TA*3
+11⁷2<AE - Ka) ⁷
+
+ 
+
+ 
+
+(14) 1,,ηὲ - (ΚΞ - Α’3) (2 TA] - ΑΞ) ⁸
+[(1ΚῖΚὸ
+
+1) SCHWARTz: S. 12.
+

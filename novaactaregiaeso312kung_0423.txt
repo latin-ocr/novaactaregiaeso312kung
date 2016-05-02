@@ -1,0 +1,83 @@
+SUR LE DEVELOPPEMENT D'UNE F0N0T10N ANALYTIQUE. 9
+
+rents al ‚ . . . , ap (16 χ’(ε), et (16 l'i11t6grale de la fonction {s'(:) -r fv(2)} ,
+prise du point 20 -ἒῑ un point c du confotu· C, la fonction fae) &tant la
+valeur (16 χ’(ε) θρῑὲε que ε a emerit 16 contour C en sens positis} est
+identiquement &gale ἱ, la somme des inffigrales (16 χ’(ε), prises suivants
+les laeets Al ‚ . . . ⁷ A„ qui vont du point ⁵0. et renferment par les oercles
+Θ , . . . , Θ les points critiques αι1 . . . , a„ .
+
+De'veloppement d’zme fonction analytique pour un contour de convewyence
+qui referme des infimis uniformes d’orclres quelconqueS.
+
+6. soit ιΝΖ) une fonction analytique uniforme pour tous les points
+d’un contour ferme} C et (16 l'aire incluse, et supposons que les infinis
+al ‚ . . ‚ av, d’ordres respeotifs ml , . . . 7 mv, de la fonction f(2) soient
+situ& a l'intz-§rieur (16 μ66 contour ainsi que les points α0 et oe; alors, ἐι
+cause de l’uniformitcss, de f(2)‚ on obtiendra d’aprees (24) et (14) l'iden-
+tit& suivante,
+
+ 
+
+ 
+
+ 
+
+⁶f(z)d2 “OEf(z)d2÷}”j' f(z)d2 Ἰ
+
+Ζ-α] ‘ 2—ae
+
+identit& qui, en employant la formule
+
+-1- ÷(2-⁶2)⁷‘-¹÷<w-a0)'2—³ 1
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ε’έιοτὶτει (16 la manibre suivante,
+
+ 
+
+ 
+
+<25)s(x)= 21Μῖ ΝΜΖ 16 a0>jg⁸< Ζ)<ῑζ21, 1114211 Cf<2)c12
+
+Z—ao (z—a0)⁷²
+
+ 
+
+² QfCZ>d2÷
+
+Ίῖ-ἒί
+
+   
+
+ 
+
+οὺ 16 reste R a la forme,
+
+9712
+
+(26) (v—a0)s(s<2 sl 100⁴(2 aO
+
+(lo)
+
+ 
+
+ 
+
+—Z—ao
+
+ 
+
+Nova Acta Reg. 806 ,68. Ups. Ser. ΙΙΙ. 2
+

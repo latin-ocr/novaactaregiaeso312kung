@@ -1,0 +1,66 @@
+7 2 AXEL SemzssssLoM⁷
+
+formule de reduction ‘toujours applicab1e‚ si ee n’est que m — 1 = O . —
+Si m=l⁷ on n’a qu‘ah employer l’e'quation (9). — En employant
+plusieurs fois la formale de reduction (18), on arrive ὲ l⁷integrale
+
+‹Jl :sgoffiussffluffluv si m est pair, mais ἐι 52 ε]ξολ(α)ξνμ(α)ξζῖλ(α)άα, si
+m est impair. —— Pour la valeur de Jl voir ξ 6; pour celle de finte-
+grale J2 voir l'equation (9). —— En eliminant, entre (17) et (18), l'inte-
+grale stow){TYUOZQQOdu⁷ on aura la troisieme formule de reduction
+
+de l⁷integrale proposee⁷ dans la seule integrale de laquelle l'exposant η
+sera reduit de deux unites, l'exposant m restant le meme.
+
+Clzereher ἰα formul& de re'ductz'on cle Μητᾴιγναῖθ
+
+(19) J Ξ sffgffiuffiggu)&gemm ,
+ἰ7 m et η όῑαητ (les nombre& entiers posita-'fs
+Par la relation ξῇλζῑι) = 1 -ξ- (e), - ev)}{2(u)‚ (6) p. 3, l’integrale pro-
+posee peut &tre exprimee par une somme &integrales de la forme
+
+]Ίξξλ<ῑι)ξζῗμ(ῐι>ᾱα, si n est pair⁷ de la forme [ἕρ-(α) ξζῖῑμ(1ι)ξνλ(α)(1α , si η est
+
+impair, imegrales dont les formules de reduetion sont dejfit donnees.
+Mais cette transformation ne pourrait ἐπεὶ, employee, sans que l'expo-
+sant l ne ffit aug-mente audessus de la valeur primitive. — Mais⁷ on a,
+comme dans Pavent-dernier probleme,
+
+(20) s³=²22<u>53122<u> {melu = θλ - ‘³²' stema)³252<u>÷512<u>01u—
+
+εν-εμ
+
+ 
+
+1
+
+ea„ - ρμ
+
+1
+
+ea„—ew
+
+ 
+
+χξξῖῗᾲι) ξξῖμζῖι) ξξξλᾲι) d α 4- βξζῇᾞι) {QZ-Qu) ξζξλζα) cl u .
+
+ 
+
+Cette formule de reduction n'affeete que l et m, en laissant l'ex-
+posant η intaete. —- De meme, nul des exposants n'en est augmente
+audessus de la valeur primitive.
+
+D’ailleurs, on a aussi
+
+-ssffffiwemffimw=e÷mm-mffiwwffwffiw÷
+
+ψ <2 eu — ev ξςῑκωξξῑῖωξςκα) ÷ ρξεῑῑω) ξῖῖωξῑκῦό) -
+
+θλ-Θν
+
+ 
+
+-ᾕζζῇωᾞωῇψ-
+
+ 
+

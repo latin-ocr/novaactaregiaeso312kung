@@ -1,0 +1,55 @@
+70 Axm ῧὸῡΕΒΒιΟΜ,
+
+Ε8 ergiebt sich also, in dem speciellen Falle: Lothlinie, Figuren-
+aehse und instantane Aehse am Anfange der Bewegung 111 derselben
+Ebeue, dass
+
+[2220 ; K4=0.
+Dureh Fortsetzung (188 Differentiiren ergiebt sich, dass auch
+A]3 = 0
+
+ist. An der Behandlung dee vollstaendig generelen Falles⁷ — Wo also
+weder p²÷q²=0 werden kann, noch <die Lothlinie, die Figurenaehse„
+und die instantane Aehse in der selben Ebene am Anfange der Bewe-
+gung liegen — wird forme-l erwiesen werden, dass jedes K mit. gera-
+dem Index verschwindet.
+
+Aus dem letzten, speciessen Falle, wo
+
+v Ξ [1](1-10) -μ A'3(t a ‘0)³ -1- K5<t - τογ’) -1--··
+
+ward, wird sofort ersiehtlieh, wie man 111 dem generelen Falle zu ver-
+fahren hat, um eine gleieh 8ο bequeme Ferme] fiir υ zu bekommen: wo
+die Anzahl der zu bereehnenden Constanten zu der Halfte redueirt ist.
+— Man brauoht nur die Anfangszeit zu einem der Augenblieke, wenn
+
+&20
+<lt
+
+wird, zu verlegen. Aus den Formeln (51) und (52) ergiebt sich, dass
+dies nur dadureh meglich werden kann, dass
+
+1 · dyst—&OQZO
+{W - ἵο -1- Ῐῑ)- eu }² dt
+
+ist. Darum 1111188 en‘tweder
+
+ 
+
+ 
+
+ 
+
+t—t0÷k=(2n-}-l)w (⁷2:0‚1‚2‚..)
+
+88111, also ccli—{² = Ο; oder auch
+
+t—t0†k=2nw
+
+1
+
+W eine unendlich kleine Gresse vierter
+1 — ο - μ
+
+sein. Dabei ist
+
